@@ -1,0 +1,26 @@
+*{
+    background: url(../../../Desktop/Programacion/vaquitas.jpg) no-repeat center center fixed;  
+    background-size: cover ;
+    color: rgb(255, 25, 0);
+}
+h1{
+    border: 2px solid red;
+}
+div{
+    
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 2px solid black;
+}
+img {
+    width: 400px;
+}
+
