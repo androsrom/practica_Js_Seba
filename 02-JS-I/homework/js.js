@@ -5,5 +5,3 @@ function filter(array) {
 	let newArr = array.filter((element) => element[0] !== 'a')
 	return newArr
   }
-
-  console.log(filter(['arroz','pepe','algodon','gris',1,'alcantarilla']));
