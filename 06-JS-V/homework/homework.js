@@ -11,7 +11,6 @@ function crearUsuario() {
 
 function Usuario (opciones){
 }
-}
 
 
 // class Usuario {
